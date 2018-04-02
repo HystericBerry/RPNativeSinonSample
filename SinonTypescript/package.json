@@ -1,0 +1,21 @@
+{
+    "name": "request-promise-sinon-sample",
+    "version": "1.0.0",
+    "description": "This subdirectory demonstrates that NodeJs, Sinon & TypeScript work together.",
+    "author": {
+        "email": "someone@somewhere.com",
+        "name": "someone"
+    },
+    "dependencies": {
+        "@types/chai": "^4.1.2",
+        "@types/mocha": "^5.0.0",
+        "@types/node": "^9.6.1",
+        "@types/sinon": "^4.3.0",
+        "chai": "^4.1.2",
+        "mocha": "^5.0.4",
+        "request": "^2.85.0",
+        "request-promise-native": "^1.0.5",
+        "sinon": "^4.4.6",
+        "typescript": "^2.8.1"
+    }
+}
