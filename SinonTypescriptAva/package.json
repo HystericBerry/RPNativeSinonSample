@@ -1,0 +1,20 @@
+{
+    "name": "request-promise-sinon-sample",
+    "version": "1.0.0",
+    "description": "This subdirectory demonstrates that NodeJs, Sinon, TypeScript & AVA work together.",
+    "author": {
+        "email": "someone@somewhere.com",
+        "name": "someone"
+    },
+    "dependencies": {
+        "@types/chai": "^4.1.2",
+        "@types/node": "^9.6.1",
+        "@types/sinon": "^4.3.0",
+        "ava": "^0.25.0",
+        "chai": "^4.1.2",
+        "request": "^2.85.0",
+        "request-promise-native": "^1.0.5",
+        "sinon": "^4.4.6",
+        "typescript": "^2.8.1"
+    }
+}
